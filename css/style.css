@@ -731,6 +731,9 @@ footer .copy{
     text-align: center;
     color: var(--gray-light);
 }
+footer .copy p{
+    color: red;
+}
 footer .copy p a{
     color: var(--primary);
 }
